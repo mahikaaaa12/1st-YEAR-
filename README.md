@@ -1,7 +1,7 @@
-Welcome to my GitHub repository, where I document and share all the C++ programs and code that I am learning during my first year of B.Tech in Computer Science Engineering (CSE) with a specialization in Artificial Intelligence and Machine Learning (AIML).
+Welcome to my GitHub repository, where I document and share all the C++ programs and code I am learning during my first year of B.Tech in Computer Science Engineering (CSE) with a specialization in Artificial Intelligence and Machine Learning (AIML).
 
 ## Overview:
-This repository contains the C++ programs and assignments I work on throughout my first-year coursework. It includes basic and intermediate-level C++ concepts that are essential for building a strong foundation in programming.
+This repository contains the C++ programs and assignments I worked on throughout my first-year coursework. It includes basic and intermediate-level C++ concepts essential for building a strong foundation in programming.
 
 ## Repository Structure
 The repository is structured into folders based on different topics or assignments covered during my course. Each folder may contain:
@@ -19,7 +19,7 @@ As I progress through my first year, I'll update this section to reflect the key
 6. Object-Oriented Programming: Classes, objects, inheritance, polymorphism
 7. File Handling
 8. Data Structures: Stacks, queues, linked lists, etc.
-9. **Algorithms**: Sorting, searching, etc.
+9. Algorithms: Sorting, searching, etc.
 
 ## How to Use
 1. Clone the repository:
@@ -38,9 +38,3 @@ This repository is primarily for personal learning, but if you find an issue or 
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
-
-This project is part of my academic journey in B.Tech CSE with AIML specialization. I am grateful to my professors and peers for their guidance and support.
-
----
-
-Feel free to modify the content as per your needs!
